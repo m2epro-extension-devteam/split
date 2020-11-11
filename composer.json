@@ -5,7 +5,7 @@
     "type": "magento2-module",
     "require": {
         "magento/framework": "*",
-        "m2e/ebay-amazon-magento2": "*"
+        "m2epro/magento2-extension": "*"
     },
     "license": [
         "Proprietary"
